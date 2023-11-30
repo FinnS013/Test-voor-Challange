@@ -1,6 +1,9 @@
+/* standaart kleur zwart tenzij anders aangegeven */
 * {
     color: black;
 }
+
+/* Home.html pagina */
 
 nav {
     display: flex;
@@ -122,3 +125,5 @@ nav a {
     height: auto;
     width: 30%;
   }
+
+/* index.html */
